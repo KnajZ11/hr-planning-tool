@@ -41,8 +41,8 @@
    ```
 ## 🚀 Ссылки
 
-- **App Link:** (https://github.com/KnajZ11/rsschool-cv)
-- **Pull Request:** [HR Planning Tool #10]([https://github.com](https://github.com/KnajZ11/rsschool-cv/pull/10)
+- **App Link:** (https://knajz11.github.io/rsschool-cv/)
+- **Pull Request:** [HR Planning Tool #10][https://github.com](https://github.com/KnajZ11/rsschool-cv/pull/10)
 
 ## Специальные заметки о реализации
 
